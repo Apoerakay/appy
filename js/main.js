@@ -14,5 +14,6 @@ let fullName = `${firstName} ${lastName}`;
 
  if(age >=18) {console.log("welcome to KP Photography")}
  else{console.log("this page is not avalaible")}
-
  
+
+ console.log("we are using GIT!!");
